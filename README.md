@@ -1,2 +1,3 @@
-# microcms-nuxt-jamstack-blog
-# JapanesePublicHolidays
+# JapanesePublicHolidaysClass
+
+
